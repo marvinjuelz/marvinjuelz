@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I am Marvin, an IT professional, with Cloud and IT Operations experience. I'm interested in Data Science and AI
+
+- 💻 I’m currently working on creating customised Python functions.
+- 🧱 I’m currently learning ChatGPT in Python.
+- 🛠️ I’m looking to collaborate on any Data Science and Analytics projects.
 <!--
 **marvinjuelz/marvinjuelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
